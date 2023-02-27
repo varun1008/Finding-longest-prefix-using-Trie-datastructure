@@ -1,4 +1,4 @@
-# Routing of telephone calls
+# Finding longest prefix of a number using Trie data structure
 - Java project for finding the largest telephone prefix code to the phone number and finding the cheapest opearator for that number from a list of operators.
  I've come up with two different implementations for this problem
   - First implementation is a brute force approach with a cubic time complexity.
